@@ -1,16 +1,14 @@
-## Hi there 👋
+Hola Benvinguts al meu Readme 🙌
 
-<!--
-**equezer/equezer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- >>>> Actualment estic treballant en Suara Cooperativa a Barcelona 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- >>>> Actualment estic aprenent Xarxes i Microinformàtica
+
+- >>>> que vull fer en el futur? Qui vull ser?
+
+- >>>> Com podeu contactar amb mi: alu.jan.fernandez@mataro.epiaedu.cat
+
+
+  
+

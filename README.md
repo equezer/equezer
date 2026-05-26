@@ -1,4 +1,4 @@
-Hola Benvinguts al meu Readme 🙌
+# Hola em dic Jan Fernández Paulinelli i aquest es el meu perfil 👾
 
 
 - >>>> Actualment estic treballant en Suara Cooperativa a Barcelona 

@@ -6,11 +6,17 @@
 
 ## Que vull fer en el futur? Qui vull ser?
 
-<img width="800" height="600" alt="lenguajes-programacion-top" src="https://github.com/user-attachments/assets/09a5bfba-7344-4348-9868-0ed83802887f" />
+En aquesta infografia parlo de com em veig ara i dintre d'uns anys amb la carrera que vull fer com programador:
+
+<img width="800" height="2000" alt="Repte Professional Programador i Dissenyador de Videojocs" src="https://github.com/user-attachments/assets/fa461e16-30c7-4ca1-8740-e5a832e87144" />
+
 
 ## Com podeu contactar amb mi: 
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c3b9049b-0d69-4e84-92cd-0c3e52218627" /> alu.jan.fernandez@mataro.epiaedu.cat
+mail: alu.jan.fernandez@mataro.epiaedu.cat
+telefon: 640643030
+
+## Repositoris dels diferents projectes:
 
 
   

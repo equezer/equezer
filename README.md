@@ -18,6 +18,17 @@ telefon: 640643030
 
 ## Repositoris dels diferents projectes:
 
-
+- [projece2] ()
   
+- [projece3] ()
 
+- [projece4] ()
+  
+- [projece5] ()
+
+- [projece6] ()
+  
+- [projece7] ()
+
+- [projece8] ()
+  

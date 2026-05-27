@@ -30,7 +30,7 @@ telefon: 640643030
   
 - [projece7](https://github.com/equezer/projecte-7-equezer.git)
 
-- [web-projecte7-equezer]([https://github.com/equezer/web-projecte7-equezer.git](https://github.com/SMX2n/FoodLogistic-Jan.git))
+- [web-projecte7-equezer](https://github.com/SMX2n/FoodLogistic-Jan.git)
 
 - [projece8](https://github.com/classesSMX2n/projecte-8-equezer.git)
   

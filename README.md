@@ -32,3 +32,4 @@ telefon: 640643030
 
 - [projece8] ()
   
+- [ud9-agregarzorin] (https://github.com/equezer/ud9-agregarzorinad-equezer.git)

@@ -18,18 +18,20 @@ telefon: 640643030
 
 ## Repositoris dels diferents projectes:
 
-- [projece2] ()
+- [projece2]()
   
-- [projece3] ()
+- [projece3]()
 
-- [projece4] ()
+- [projece4]()
   
-- [projece5] ()
+- [projece5](https://github.com/equezer/projecte5-equezer.git)
 
-- [projece6] ()
+- [projece6](https://github.com/equezer/projecte6-equezer.git)
   
-- [projece7] ()
+- [projece7](https://github.com/equezer/projecte-7-equezer.git)
 
-- [projece8] ()
+- [web-projecte7-equezer](https://github.com/equezer/web-projecte7-equezer.git)
+
+- [projece8](https://github.com/classesSMX2n/projecte-8-equezer.git)
   
-- [ud9-agregarzorin] (https://github.com/equezer/ud9-agregarzorinad-equezer.git)
+- [ud9-agregarzorin](https://github.com/equezer/ud9-agregarzorinad-equezer.git)

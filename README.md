@@ -18,11 +18,11 @@ telefon: 640643030
 
 ## Repositoris dels diferents projectes:
 
-- [projece2]()
+- [projece2](https://github.com/SMX2n/Projecte2.git)
   
-- [projece3]()
+- [projece3](https://github.com/SMX2n/Projecte3-Everpia-2.git)
 
-- [projece4]()
+- [projece4](https://github.com/SMX2n/Projecte-4.git)
   
 - [projece5](https://github.com/equezer/projecte5-equezer.git)
 

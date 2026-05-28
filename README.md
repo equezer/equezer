@@ -15,7 +15,6 @@
 
 # a l'arxiu: [presentacio.md](presentacio.md) es troba la informació més detallada
 
----
 
 ## Repositoris dels diferents projectes que hem durant aquest curs:
 

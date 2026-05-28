@@ -1,4 +1,4 @@
-# Hola em dic Jan Fernández Paulinelli, soc estudiant de grau mitja d'informàtica i aquest es el meu perfil 👾:
+# Hola, em dic Jan Fernández Paulinelli, soc estudiant de grau mitja d'informàtica i aquest es el meu perfil 👾:
 
 ## Actualment estic cursant el grau mitja de Xarxes i Microinformàtica a La escola Pia de Mataró
 
@@ -13,8 +13,9 @@ En aquesta infografia parlo de com em veig ara i dintre d'uns anys amb la carrer
 
 ## Com podeu contactar amb mi: 
 
-mail: alu.jan.fernandez@mataro.epiaedu.cat
-telefon: 640643030
+- mail: alu.jan.fernandez@mataro.epiaedu.cat
+
+- telefon: 640643030
 
 ## Repositoris dels diferents projectes:
 

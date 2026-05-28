@@ -18,21 +18,21 @@
 
 ## Repositoris dels diferents projectes que hem durant aquest curs:
 
-- [projece2](https://github.com/SMX2n/Projecte2.git)
+- [projecte2](https://github.com/SMX2n/Projecte2.git)
   
-- [projece3](https://github.com/SMX2n/Projecte3-Everpia-2.git)
+- [projecte3](https://github.com/SMX2n/Projecte3-Everpia-2.git)
 
-- [projece4](https://github.com/SMX2n/Projecte-4.git)
+- [projecte4](https://github.com/SMX2n/Projecte-4.git)
   
-- [projece5](https://github.com/equezer/projecte5-equezer.git)
+- [projecte5](https://github.com/equezer/projecte5-equezer.git)
 
-- [projece6](https://github.com/equezer/projecte6-equezer.git)
+- [projecte6](https://github.com/equezer/projecte6-equezer.git)
   
-- [projece7](https://github.com/equezer/projecte-7-equezer.git)
+- [projecte7](https://github.com/equezer/projecte-7-equezer.git)
 
 - [web-projecte7-equezer](https://github.com/SMX2n/FoodLogistic-Jan.git)
 
-- [projece8](https://github.com/classesSMX2n/projecte-8-equezer.git)
+- [projecte8](https://github.com/classesSMX2n/projecte-8-equezer.git)
   
 - [ud9-agregarzorin](https://github.com/equezer/ud9-agregarzorinad-equezer.git)
 

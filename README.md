@@ -17,6 +17,12 @@ En aquesta infografia parlo de com em veig ara i dintre d'uns anys amb la carrer
 
 - telefon: 640643030
 
+--- 
+
+# a l'arxiu: [presentacio.md](presentacio.md) es troba la informació més detallada
+
+---
+
 ## Repositoris dels diferents projectes que hem durant aquest curs:
 
 - [projece2](https://github.com/SMX2n/Projecte2.git)

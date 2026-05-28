@@ -20,15 +20,17 @@ El meu objectiu seria arribar a desenvolupar jocs que arribin a la gent més enl
 
 A part de l'experiencia amb la gent que he conescut i la manera de treballar que tenen els graus on es fomenta més els treballs pràctics i en grup voldria fer una petita llista de les tasques que m'han fet veure més enlla de simples preguntes i respostes:
 
+---
+
 ##  A la part del disseny m'enporto un bonic record tant d'aquesta tasca on haviem de fer un access i em vaig encarregar del disseny amb temàtica de Dragon Ball:
 
 [link disseny Access](https://canva.link/k8bim5xzznjov1g)
 
----
 
 ## Com amb el figma final que vam haver de fer sobre una pàgina web:
 
 [link disseny Figma](https://www.figma.com/design/kcSL0pXxnwk00QkviNeLLK/Gym-Website--Community-?node-id=0-1&t=KxcjU5nI7NE78EQn-1)
 
+---
 
 [Tornar al meu perfil personal](./README.md)

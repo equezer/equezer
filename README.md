@@ -34,7 +34,6 @@
 
 - [projecte8](https://github.com/classesSMX2n/projecte-8-equezer.git)
   
-- [ud9-agregarzorin](https://github.com/equezer/ud9-agregarzorinad-equezer.git)
 
 ## Planols de Kanban de cada projecte
 

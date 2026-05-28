@@ -14,8 +14,6 @@ El meu objectiu seria arribar a desenvolupar jocs que arribin a la gent més enl
 
 # Que vull fer en el futur? Qui vull ser?
 
-En aquesta infografia parlo de com em veig ara i dintre d'uns anys amb la carrera que vull fer com programador:
-
 <img width="800" height="2000" alt="Repte Professional Programador i Dissenyador de Videojocs" src="https://github.com/user-attachments/assets/fa461e16-30c7-4ca1-8740-e5a832e87144" />
 
 # Que em porto d'aquest dos cursos?

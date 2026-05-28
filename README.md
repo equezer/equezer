@@ -35,3 +35,13 @@
 - [projece8](https://github.com/classesSMX2n/projecte-8-equezer.git)
   
 - [ud9-agregarzorin](https://github.com/equezer/ud9-agregarzorinad-equezer.git)
+
+## Planols de Kanban de cada projecte
+
+- [botiga snickers](https://canva.link/hpcbxi4xqubpe7l)
+
+- [Projecte 2 - presentació del projecte](https://planner.cloud.microsoft/webui/v1/plan/Hxjch2vOqUCmiWetc0SV3ZYAG4og?tid=c7b5981a-7820-4ac8-ae65-03515ea81317)
+
+- [EverPia 2: “Sobreviure en una empresa IT”](https://planner.cloud.microsoft/webui/v1/plan/wJpPjePt0EmjnhksH_Y0FZYAENA0?tid=c7b5981a-7820-4ac8-ae65-03515ea81317)
+
+- [Projecte-4_EverPia 3](https://planner.cloud.microsoft/webui/v1/plan/IzomYbQhikSH0ridBqQLUJYAAuBV?tid=c7b5981a-7820-4ac8-ae65-03515ea81317)

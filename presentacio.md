@@ -18,4 +18,4 @@ En aquesta infografia parlo de com em veig ara i dintre d'uns anys amb la carrer
   - 1.2. Repositoris principals d'aquest curs
     - 1.3. estructura de les carpetes  
 
-[torna a la pàgina principal](./README.md)
+[Tornar al meu perfil personal](./README.md)
